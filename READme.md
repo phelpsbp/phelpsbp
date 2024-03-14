@@ -5,7 +5,7 @@ Here you'll find all of my Data Analytics Projects.
 
 | Project Name |   Tools Used   |   Summary   |
 | :---         |     :---:      |    :---     |
-| [The Hogwarts Bestiary](https://phelpsbp.github.io/The-Hogwarts-Bestiary/) | `Python` `Excel` `Pandas` `Plotly` `nbconvert`] The Hogwarts Bestiary project is an on-going, interactive Jupyter notebook that classifies magical creatures from the Harry Potter universe into Hogwarts houses, utilizing data analysis and visualization tools such as Pandas and Plotly, and is showcased as a responsive HTML page on GitHub Pages.|
+| [The Hogwarts Bestiary](https://phelpsbp.github.io/The-Hogwarts-Bestiary/) | `Python` `Excel` `Pandas` `Plotly` `nbconvert` | The Hogwarts Bestiary project is an on-going, interactive Jupyter notebook that classifies magical creatures from the Harry Potter universe into Hogwarts houses, utilizing data analysis and visualization tools such as Pandas and Plotly, and is showcased as a responsive HTML page on GitHub Pages.|
 | [Data Warehousing with Oracle](https://github.com/phelpsbp/Data-Warehousing-with-Oracle) | `MySQL` `Tableau` |Business intelligence operational analysis and data modeling to explore new markets. |
 |[City Happiness Index EDA](https://github.com/phelpsbp/City-Happiness-Index-EDA)|`Python` `RegressionModels` `CorrelationAnalysis`|Conducted exploratory analysis into factors affecting urban well-being & satisfaction.|
 |[Mint Classics Inventory Optimization](https://github.com/phelpsbp/Mint-Classics-Inventory-Optimization)|`MySQL` `PivotTables`|Conducted exploratory analysis into the reduction or reorganization of inventory in the Mint Classics storage facilities. Gave recommendations for inventory optimization and warehouse efficiency.|
