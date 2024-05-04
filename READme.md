@@ -1,7 +1,13 @@
-# Projects
-**Welcome!**
+#### About Me:
+I'm really passionate about turning challenges into opportunities, especially when it comes to showing that tech can be fun and engaging for everyone. Drawing on my background as a fine artist, I found my niche in crafting visual stories from complex data. This blend allows me to transform complex data sets into engaging, easy-to-understand visual narratives, making data not just accessible but genuinely captivating.
 
-Here you'll find all of my Data Analytics Projects. 
+Currently, I'm honing my skills in Python libraries like Pandas, Seaborn, and Matplotlib. 
+
+**Quick Links:**
+* [Data Analytics Website](https://phelpsbp.github.io)
+* [LinkedIn](https://www.linkedin.com/in/brittany-everette/)
+
+### Projects
 
 | Project Name |   Tools Used   |   Summary   |
 | :---         |     :---:      |    :---     |
@@ -11,8 +17,3 @@ Here you'll find all of my Data Analytics Projects.
 | [Data Warehousing with Oracle](https://github.com/phelpsbp/Data-Warehousing-with-Oracle) | `MySQL` `Tableau` |Business intelligence operational analysis and data modeling to explore new markets. |
 |[City Happiness Index EDA](https://github.com/phelpsbp/City-Happiness-Index-EDA)|`Python` `RegressionModels` `CorrelationAnalysis`|Conducted exploratory analysis into factors affecting urban well-being & satisfaction.|
 |[Mint Classics Inventory Optimization](https://github.com/phelpsbp/Mint-Classics-Inventory-Optimization)|`MySQL` `PivotTables`|Conducted exploratory analysis into the reduction or reorganization of inventory in the Mint Classics storage facilities. Gave recommendations for inventory optimization and warehouse efficiency.|
-
-Quick Links:
-* [Data Analytics Website](https://phelpsbp.github.io)
-* [LinkedIn](https://www.linkedin.com/in/brittany-everette/)
-
