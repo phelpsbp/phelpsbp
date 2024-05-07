@@ -1,7 +1,7 @@
 #### About Me:
 I'm really passionate about turning challenges into opportunities, especially when it comes to showing that tech can be fun and engaging for everyone. Drawing on my background as a fine artist, I found my niche in crafting visual stories from complex data. This blend allows me to transform complex data sets into engaging, easy-to-understand visual narratives, making data not just accessible but genuinely captivating.
 
-Currently, I'm honing my skills in Python libraries like Pandas, Seaborn, and Matplotlib. 
+Currently, I'm completing additional certifications in Machine Learning and AWS Architect Solutions while honing my skills in Python libraries like Pandas, Seaborn, and Matplotlib
 
 **Quick Links:**
 * [Data Analytics Website](https://phelpsbp.github.io)
